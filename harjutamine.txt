@@ -1,2 +1,4 @@
 GitHub on veebileht, kus hoitakse ja hallatakse projekte ning faile.
 Seda kasutavad programmeerijad, õpilased ja meeskonnad koostöö tegemiseks.
+Mina saan edaspidi kasutada GitHubi koolitööde salvestamiseks ja projektide haldamiseks. 
+Samuti saan seda kasutada koostööks teistega ja oma tööde jagamiseks.
